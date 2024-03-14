@@ -22,3 +22,4 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 Credits: Portions of the code for calculating the PyBank and Pypoll was adopted from [https://github.com/Elliott-dev/Python-Challenge/tree/main/Instructions] by [Elliott Einstein]
+Also feel free to ignore main2.py(in PyBank folder)
